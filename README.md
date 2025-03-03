@@ -1,5 +1,5 @@
 
-### 🧑‍💻 Hello! I'm Jona Ferreira 👋
+## 🧑‍💻 Hello! I'm Jona Ferreira 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/jonaferreira)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/jonaferreira_)
