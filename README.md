@@ -66,7 +66,14 @@ Full Stack Developer, with 2 years of experience creating systems with React and
 
 ##
 
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonaferreir4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonaferreir4&layout=compact&langs_count=16&theme=dracula"/>
+---
+
+### 📊 Minhas Estatísticas
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jonaferreir4&show_icons=true&theme=tokyonight&border_radius=10&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Yvenscivel github stats" />
+    
+  <br/>
 </div>
+
+---
