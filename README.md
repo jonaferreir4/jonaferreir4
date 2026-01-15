@@ -25,11 +25,8 @@ Full Stack Developer, with 2 years of experience creating systems with React and
   <code><img alt="Jona-CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/></code>
   <code><img alt="Jona-HTML" alt="Jona-html" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
   <code><img alt="Jona-Next" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"></code>
-  <code><img alt="Jona-Sass" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"></code>
   <code><img alt="Jona-Tailwind" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"></code>
-  <code><img alt="Jona-Angular" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"></code>
-  <code><img height="30" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" /> </code>
- 
+  <code><img alt="Jona-Angular" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"></code> 
 
 </div>
 </td><td valign="top" width="33%">
