@@ -20,8 +20,8 @@ Diferencial importante: além de criar do zero, tenho forte experiência profiss
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 * **Conceitos:** Clean Architecture, DDD, SOLID, REST APIs, WebSockets (SignalR), JWT, Unit of Work.
 * **Banco de Dados:** PostgreSQL, SQL Server, MySQL, Entity Framework, FluentMigration.
