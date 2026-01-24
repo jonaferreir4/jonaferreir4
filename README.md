@@ -51,11 +51,11 @@ Aqui estão alguns projetos onde apliquei conceitos avançados de engenharia de 
 Uma aplicação complexa inspirada no Trello para gestão visual de projetos.
 - **Destaque Técnico:** Foco total em UX e performance. Utiliza **React Query** para cache e sincronização otimizada com o servidor e **Zustand** para um gerenciamento de estado global leve e performático.
 
-#### 💬 [Dialogue - Chat em Tempo Real](https://github.com/jonaferreir4)
+#### 💬 [Dialogue - Chat em Tempo Real](https://github.com/jonaferreir4/dialogue-back)
 Sistema de chat que permite criação de salas e troca de mensagens instantâneas.
 - **Destaque Técnico:** Implementação de baixa latência usando **WebSockets com SignalR** (.NET) e gestão de concorrência de conexões.
 
-#### 🔗 [Smaller - Encurtador de URL & Infraestrutura](https://github.com/jonaferreir4)
+#### 🔗 [Smaller - Encurtador de URL & Infraestrutura](https://github.com/jonaferreir4/smaller)
 Microsserviço para encurtamento de URLs.
 - **Destaque Técnico:** Focado em infraestrutura moderna. Utiliza **Traefik como Proxy Reverso** para orquestrar a comunicação entre o frontend e a API em um ambiente containerizado com Docker.
 
