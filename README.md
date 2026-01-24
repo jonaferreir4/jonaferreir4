@@ -103,6 +103,11 @@ API robusta para gerenciar inscrições e certificados.
 
 <div align="center">
   <a href="https://github.com/jonaferreir4" target="_blank">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonaferreir4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+  <br/>
+  <br/>
+  <a href="https://github.com/jonaferreir4" target="_blank">
   <img height="180em" style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonaferreir4&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jonaferreir4&theme=tokyonight" alt="Jona's Streak" />
