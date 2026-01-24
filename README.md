@@ -1,9 +1,17 @@
 # Olá, eu sou Jona Ferreira! 👋
 ## Engenheiro de Software em Formação | Full Stack Developer .NET & React
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonaferreira/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/jonaferreira_)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonaferreira.dev@gmail.com)
+<div >
+  <a href="https://www.linkedin.com/in/jonaferreira/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="http://instagram.com/jonaferreira_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:jonaferreira.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
 ### 🚀 Sobre Mim
 Sou estudante de Engenharia de Software na UFC (Universidade Federal do Ceará) e Desenvolvedor Full Stack com experiência prática em freelancer e projetos de extensão.
@@ -51,20 +59,19 @@ Responsável pela manutenção, evolução e refatoração de sistemas web em pr
 - **Tecnologias:** PHP, HTML, CSS, SQL.
 - **Entregas Principais:** Implementação de regras de negócio complexas, **Controle de Acesso (RBAC)** com múltiplos perfis de usuário e refatoração de código legado para melhoria de segurança e performance.
 
-#### 🤝 [Chemall - Freelance](https://github.com/Julyemerson/chemall)
+#### 🤝 <a href="https://github.com/Julyemerson/chemall" target="_blank">Chemall - Freelance</a>
 *Desenvolvimento Freelancer*
 Atuação no desenvolvimento de solução frontend sob medida para cliente.
 - **Foco:** Levantamento de requisitos e implementação de funcionalidades alinhadas às regras de negócio.
-- - **Tecnologias:** React, Vite, Shadcn, TanStack.
+- **Tecnologias:** React, Vite, Shadcn, TanStack.
 
-
-#### 🏢 [ShoKanri - Gestão (Kanri Project)](https://github.com/csvitor-dev/ShoKanri)
+#### 🏢 <a href="https://github.com/csvitor-dev/ShoKanri" target="_blank">ShoKanri - Gestão (Kanri Project)</a>
 *Estágio em Projeto de Extensão Universitária*
 Parte de um ecossistema maior (Kanri), focado na gestão de processos.
 - **Tecnologias:** .NET, C#, API Design.
 - **Destaque:** Trabalho colaborativo seguindo padrões de projeto rigorosos em ambiente acadêmico profissionalizante.
 
-#### 🛠️ [Next Store Gaming - Manutenção de Software](https://github.com/csvitor-dev/next-store-gaming)
+#### 🛠️ <a href="https://github.com/csvitor-dev/next-store-gaming" target="_blank">Next Store Gaming - Manutenção de Software</a>
 *Projeto da Disciplina de Manutenção de Software*
 Focado na sustentabilidade e qualidade do código.
 - **Tecnologias:** Next.js, TypeScript.
@@ -74,19 +81,19 @@ Focado na sustentabilidade e qualidade do código.
 
 ### 🏆 Projetos Pessoais em Destaque
 
-#### 📂 [GestLab - Sistema de Gestão de Projetos (Kanban)](https://github.com/jonaferreir4)
+#### 📂 <a href="https://github.com/jonaferreir4" target="_blank">GestLab - Sistema de Gestão de Projetos (Kanban)</a>
 Uma aplicação complexa inspirada no Trello para gestão visual de projetos.
 - **Destaque Técnico:** Foco total em UX e performance. Utiliza **React Query** para cache/sincronização e **Zustand** para gerenciamento de estado global.
 
-#### 💬 [Dialogue - Chat em Tempo Real](https://github.com/jonaferreir4)
+#### 💬 <a href="https://github.com/jonaferreir4" target="_blank">Dialogue - Chat em Tempo Real</a>
 Sistema de chat que permite criação de salas e troca de mensagens instantâneas.
 - **Destaque Técnico:** Baixa latência usando **WebSockets com SignalR** (.NET) e gestão de concorrência de conexões.
 
-#### 🔗 [Smaller - Encurtador de URL & Infraestrutura](https://github.com/jonaferreir4)
+#### 🔗 <a href="https://github.com/jonaferreir4" target="_blank">Smaller - Encurtador de URL & Infraestrutura</a>
 Microsserviço para encurtamento de URLs focado em infraestrutura.
 - **Destaque Técnico:** Utiliza **Traefik como Proxy Reverso** para orquestrar a comunicação entre frontend e API em containers Docker.
 
-#### 📅 [MyEvents - Gestão de Eventos](https://github.com/jonaferreir4/myevents.net)
+#### 📅 <a href="https://github.com/jonaferreir4/myevents.net" target="_blank">MyEvents - Gestão de Eventos</a>
 API robusta para gerenciar inscrições e certificados.
 - **Destaque Técnico:** Estruturado puramente em **Clean Architecture**, implementando Patterns como **Unit of Work**, Repository e FluentValidation.
 
@@ -95,8 +102,8 @@ API robusta para gerenciar inscrições e certificados.
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/jonaferreir4">
-  <img height="180em" style={{ margin-right: 10px }} src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonaferreir4&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/jonaferreir4" target="_blank">
+  <img height="180em" style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonaferreir4&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jonaferreir4&theme=tokyonight" alt="Jona's Streak" />
 </div>
