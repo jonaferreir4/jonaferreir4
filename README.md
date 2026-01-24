@@ -85,6 +85,10 @@ Focado na sustentabilidade e qualidade do código.
 Uma aplicação complexa inspirada no Trello para gestão visual de projetos.
 - **Destaque Técnico:** Foco total em UX e performance. Utiliza **React Query** para cache/sincronização e **Zustand** para gerenciamento de estado global.
 
+#### 📧 <a href="https://github.com/jonaferreir4/email-service" target="_blank">Email Service - Microsserviço de Notificações</a>
+Microsserviço isolado responsável pelo envio transacional de e-mails.
+- **Destaque Técnico:** Integração com **AWS SES** (Cloud) e arquitetura desacoplada para alta escalabilidade.
+
 #### 💬 <a href="https://github.com/jonaferreir4" target="_blank">Dialogue - Chat em Tempo Real</a>
 Sistema de chat que permite criação de salas e troca de mensagens instantâneas.
 - **Destaque Técnico:** Baixa latência usando **WebSockets com SignalR** (.NET) e gestão de concorrência de conexões.
@@ -96,7 +100,6 @@ Microsserviço para encurtamento de URLs focado em infraestrutura.
 #### 📅 <a href="https://github.com/jonaferreir4/myevents.net" target="_blank">MyEvents - Gestão de Eventos</a>
 API robusta para gerenciar inscrições e certificados.
 - **Destaque Técnico:** Estruturado puramente em **Clean Architecture**, implementando Patterns como **Unit of Work**, Repository e FluentValidation.
-
 ---
 
 ### 📊 Estatísticas do GitHub
