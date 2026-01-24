@@ -6,11 +6,11 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonaferreira.dev@gmail.com)
 
 ### 🚀 Sobre Mim
-Sou estudante de Engenharia de Software na UFC (Universidade Federal do Ceará) e Desenvolvedor Full Stack com experiência prática em freelancer e projetos acadêmicos complexos.
+Sou estudante de Engenharia de Software na UFC (Universidade Federal do Ceará) e Desenvolvedor Full Stack com experiência prática em freelancer e projetos de extensão.
 
-Meu foco não é apenas escrever código, mas construir soluções **escaláveis e bem arquitetadas**. Tenho paixão por **Clean Architecture**, **Design Patterns** (DDD, Unit of Work) e otimização de performance tanto no backend (.NET) quanto no frontend (React).
+Meu foco é construir soluções **escaláveis e bem arquitetadas**. Tenho paixão por **Clean Architecture**, **Design Patterns** (DDD, Unit of Work) e otimização de performance tanto no backend (.NET) quanto no frontend (React).
 
-Atualmente, estou me aprofundando em **DevOps** (Docker, CI/CD) e microsserviços.
+Diferencial importante: além de criar do zero, tenho forte experiência profissional na **manutenção e refatoração de sistemas legados em PHP**, lidando com regras de negócio complexas em produção.
 
 ---
 
@@ -20,11 +20,11 @@ Atualmente, estou me aprofundando em **DevOps** (Docker, CI/CD) e microsserviço
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 * **Conceitos:** Clean Architecture, DDD, SOLID, REST APIs, WebSockets (SignalR), JWT, Unit of Work.
-* **Banco de Dados:** PostgreSQL, SQL Server, MongoDB, Entity Framework, FluentMigration.
+* **Banco de Dados:** PostgreSQL, SQL Server, MySQL, Entity Framework, FluentMigration.
 
 #### **Frontend Moderno**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -38,44 +38,65 @@ Atualmente, estou me aprofundando em **DevOps** (Docker, CI/CD) e microsserviço
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-24a1c1?style=for-the-badge&logo=traefik&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 🏆 Projetos em Destaque
+### 💼 Experiência Profissional & Colaborações
 
-Aqui estão alguns projetos onde apliquei conceitos avançados de engenharia de software:
+Projetos onde atuei em cenários reais, focando em entrega de valor, trabalho em equipe e qualidade de código.
+
+#### 💼 **Suporte Verde - Freelancer Full Stack (PHP)**
+*Atuação em múltiplos projetos comerciais (Ourocargo, Yup Pet, Fenix Sindicatura)*
+Responsável pela manutenção, evolução e refatoração de sistemas web em produção.
+- **Tecnologias:** PHP, HTML, CSS, SQL.
+- **Entregas Principais:** Implementação de regras de negócio complexas, **Controle de Acesso (RBAC)** com múltiplos perfis de usuário e refatoração de código legado para melhoria de segurança e performance.
+
+#### 🤝 [Chemall - Freelance](https://github.com/Julyemerson/chemall)
+*Desenvolvimento Freelancer*
+Atuação no desenvolvimento de solução frontend sob medida para cliente.
+- **Foco:** Levantamento de requisitos e implementação de funcionalidades alinhadas às regras de negócio.
+- - **Tecnologias:** React, Vite, Shadcn, TanStack.
+
+
+#### 🏢 [ShoKanri - Gestão (Kanri Project)](https://github.com/csvitor-dev/ShoKanri)
+*Estágio em Projeto de Extensão Universitária*
+Parte de um ecossistema maior (Kanri), focado na gestão de processos.
+- **Tecnologias:** .NET, C#, API Design.
+- **Destaque:** Trabalho colaborativo seguindo padrões de projeto rigorosos em ambiente acadêmico profissionalizante.
+
+#### 🛠️ [Next Store Gaming - Manutenção de Software](https://github.com/csvitor-dev/next-store-gaming)
+*Projeto da Disciplina de Manutenção de Software*
+Focado na sustentabilidade e qualidade do código.
+- **Tecnologias:** Next.js, TypeScript.
+- **Destaque:** Aplicação de técnicas de **Refatoração**, identificação de "Code Smells" e implementação de melhorias para garantir a manutenibilidade do sistema.
+
+---
+
+### 🏆 Projetos Pessoais em Destaque
 
 #### 📂 [GestLab - Sistema de Gestão de Projetos (Kanban)](https://github.com/jonaferreir4)
-*Projeto de Extensão (Learning Lab - UFC)*
 Uma aplicação complexa inspirada no Trello para gestão visual de projetos.
-- **Destaque Técnico:** Foco total em UX e performance. Utiliza **React Query** para cache e sincronização otimizada com o servidor e **Zustand** para um gerenciamento de estado global leve e performático.
+- **Destaque Técnico:** Foco total em UX e performance. Utiliza **React Query** para cache/sincronização e **Zustand** para gerenciamento de estado global.
 
-#### 💬 [Dialogue - Chat em Tempo Real](https://github.com/jonaferreir4/dialogue-back)
+#### 💬 [Dialogue - Chat em Tempo Real](https://github.com/jonaferreir4)
 Sistema de chat que permite criação de salas e troca de mensagens instantâneas.
-- **Destaque Técnico:** Implementação de baixa latência usando **WebSockets com SignalR** (.NET) e gestão de concorrência de conexões.
+- **Destaque Técnico:** Baixa latência usando **WebSockets com SignalR** (.NET) e gestão de concorrência de conexões.
 
-#### 🔗 [Smaller - Encurtador de URL & Infraestrutura](https://github.com/jonaferreir4/smaller)
-Microsserviço para encurtamento de URLs.
-- **Destaque Técnico:** Focado em infraestrutura moderna. Utiliza **Traefik como Proxy Reverso** para orquestrar a comunicação entre o frontend e a API em um ambiente containerizado com Docker.
+#### 🔗 [Smaller - Encurtador de URL & Infraestrutura](https://github.com/jonaferreir4)
+Microsserviço para encurtamento de URLs focado em infraestrutura.
+- **Destaque Técnico:** Utiliza **Traefik como Proxy Reverso** para orquestrar a comunicação entre frontend e API em containers Docker.
 
-#### 📅 [MyEvents - Gestão de Eventos Acadêmicos](https://github.com/jonaferreir4/myevents.net)
+#### 📅 [MyEvents - Gestão de Eventos](https://github.com/jonaferreir4/myevents.net)
 API robusta para gerenciar inscrições e certificados.
-- **Destaque Técnico:** Estruturado puramente em **Clean Architecture** para garantir desacoplamento. Implementa Patterns como **Unit of Work** e Repository, além de validações com FluentValidation.
+- **Destaque Técnico:** Estruturado puramente em **Clean Architecture**, implementando Patterns como **Unit of Work**, Repository e FluentValidation.
 
 ---
 
-### 💼 Experiência Profissional
-
-**Desenvolvedor Web Freelancer | Suporte Verde** *(2025)*
-Atuação na manutenção e evolução de sistemas legados e novas features.
-- Refatoração de código PHP para melhoria de segurança.
-- Implementação de regras de negócio complexas e controle de acesso (RBAC) para sistemas de gestão de cargas (Ourocargo) e clínicas veterinárias (Yup Pet).
-
----
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jonaferreir4&show_icons=true&theme=tokyonight&border_radius=10&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Jona Ferreira github stats" />
-  <br/>
-  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jonaferreir4&layout=compact&theme=tokyonight&border_radius=10&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <a href="https://github.com/jonaferreir4">
+  <img height="180em" style={{ margin-right: 10px }} src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonaferreir4&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jonaferreir4&theme=tokyonight" alt="Jona's Streak" />
 </div>
