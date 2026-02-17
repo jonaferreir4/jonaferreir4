@@ -114,4 +114,4 @@ API robusta para gerenciar inscrições e certificados.
     <img height="180em" style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonaferreir4&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jonaferreir4&theme=tokyonight" alt="Jona's Streak" />
-</div>>
+</div>
