@@ -56,7 +56,7 @@ Projetos onde atuei, focando em entrega de valor, trabalho em equipe e qualidade
 #### 💼 **Kasterweb — Desenvolvedor Frontend**
 *Fev 2026 – Presente*
 
-Atuo na **arquitetura, atualização e otimização** do ecossistema frontend da empresa. Sou o responsável técnico pela modernização do **K-flow**, um dos principais produtos da casa, onde foco na migração técnica de sistemas legados para uma infraestrutura moderna e escalável.
+Atuo na **arquitetura, atualização e otimização** do ecossistema frontend da empresa. Sou o responsável técnico pela modernização dos principais produtos da casa, onde foco na migração técnica de sistemas legados para uma infraestrutura moderna e escalável.
 
 - **Tecnologias:** Next, React, TypeScript, Vite, Tailwind CSS, Shadcn UI, React Query, Zustand e WebSockets.
 - **Destaques:**
