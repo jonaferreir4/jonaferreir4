@@ -51,7 +51,19 @@ Diferencial importante: além de criar do zero, tenho forte experiência profiss
 
 ### 💼 Experiência Profissional & Colaborações
 
-Projetos onde atuei em cenários reais, focando em entrega de valor, trabalho em equipe e qualidade de código.
+Projetos onde atuei, focando em entrega de valor, trabalho em equipe e qualidade de código.
+
+#### 💼 **Kasterweb — Desenvolvedor Frontend**
+*Fev 2026 – Presente*
+
+Atuo na **arquitetura, atualização e otimização** do ecossistema frontend da empresa. Sou o responsável técnico pela modernização do **K-flow**, um dos principais produtos da casa, onde foco na migração técnica de sistemas legados para uma infraestrutura moderna e escalável.
+
+- **Tecnologias:** Next, React, TypeScript, Vite, Tailwind CSS, Shadcn UI, React Query, Zustand e WebSockets.
+- **Destaques:**
+  - Estruturação de arquitetura frontend focada em performance e manutenibilidade.
+  - Implementação de fluxos de dados complexos e gerenciamento de estado global.
+  - Otimização de consumo de APIs e integração de serviços em tempo real.
+  - Manutenção e suporte de sistemas críticos em produção, garantindo a integridade da experiência do usuário.
 
 #### 💼 **Suporte Verde - Freelancer Full Stack (PHP)**
 *Atuação em múltiplos projetos comerciais (Ourocargo, Yup Pet, Fenix Sindicatura)*
