@@ -34,7 +34,6 @@ Atualmente atuo como **Desenvolvedor Frontend na Kasterweb**, onde sou o respons
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java%2021-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 * **Conceitos & Padrões:** Clean Architecture, DDD, SOLID, Feature-Sliced Design (FSD), WebSockets (SignalR & Socket.IO), WebRTC P2P, Locks Pessimistas (`SELECT FOR UPDATE`), Unit of Work.
 * **Bancos de Dados & Caching:** PostgreSQL, Redis, SQL Server, MySQL, Entity Framework Core, Prisma ORM, Flyway.
